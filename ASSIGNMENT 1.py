@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[12]:
-
+# In[12]
+#krjhgioykgm
+#kh45jgfkj
 
 #list methods
 l=[11,22,33,44,55]
