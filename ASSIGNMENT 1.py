@@ -4,6 +4,8 @@
 # In[12]
 #krjhgioykgm
 #kh45jgfkj
+#kdjrhf
+#hghd
 
 #list methods
 l=[11,22,33,44,55]
